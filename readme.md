@@ -69,20 +69,6 @@ edit → amend commit
 drop → remove commit
 
 
-📸 Screenshots (to include)
-
-Branch list (git branch)
-
-Commit history (git log --oneline)
-
-Merge result
-
-Rebase editor screen
-
-GitHub repository view
-
-Pull Request/Merge Request view
-
 
 
 📦 Deliverables
